@@ -8,7 +8,7 @@ This patch utilizes MAGMA BLAS functions to construct the density matrix in the 
 
 https://github.com/dftbplus/dftbplus/releases/download/19.1/dftbplus-19.1.source.tar.xz
 
-* To apply the patch must go to the location where the dftbplus-19.1 directory resides and do as follows:
+* To apply the patch go to the location where the dftbplus-19.1 directory resides and do as follows:
 
 $ patch -p0 < dftbplus-19.1-gpu_dm.patch
 
